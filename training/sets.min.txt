@@ -1,0 +1,463 @@
+checked,is_technic,is_electric,is_train,set_num,name,year,theme_id,num_parts,comment
+1,1,1,0,002-1,4.5V Samsonite Gears Motor Set,1965,1,3,
+1,1,1,0,003-1,Master Mechanic Set,1966,366,403,
+1,1,1,0,088-1,Super Set,1969,469,615,
+1,1,1,0,10285-1,Compass Sensor for Mindstorms NXT,2011,259,1,///!!!
+1,1,1,0,10287-1,Intelligent NXT Brick (Black),2009,259,1,///!!!
+1,1,1,0,1032-1,TECHNIC II Set {4.5v},1985,507,280,
+1,1,1,0,1034-1,Teachers Resource Set,1985,532,1534,
+1,1,1,0,1090-1,TECHNIC Control I,1986,507,397,
+1,1,1,0,1175-1,4.5v TECHNIC Motor,1982,453,1,
+1,1,1,0,1236-3,12V Technic Motor,1979,453,1,
+1,1,1,0,17101-1,Creative Toolbox,2017,301,847,
+1,1,1,0,2852724-1,Accelerometer Sensor,2011,259,0,///!!!
+1,1,1,0,2852725-1,Infrared Seeker,2011,259,1,///!!!
+1,1,1,0,2852726-1,Gyroscopic Sensor,2011,259,0,///!!!
+1,1,1,0,2853216-1,Infrared Link Sensor for Mindstorms NXT,2011,259,1,///!!!
+1,1,1,0,2855040-1,Infrared Receiver Sensor for Mindstorms NXT,2011,259,0,///!!!
+1,1,1,0,2916-1,MyBot,2000,657,32,
+1,1,1,0,3057-1,Create 'n' Race - Master Builders,2000,1,106,
+1,1,1,0,31313-1,Mindstorms EV3,2013,262,601,///!!!
+1,1,1,0,3552-1,Hover Sub,1998,480,126,
+1,1,1,0,3571-1,Blackmobile,1998,480,143,
+1,1,1,0,3800-1,Ultimate Builders Set,2001,260,322,///!!!
+1,1,1,0,3801-1,Ultimate Accessories,2000,260,45,///!!!
+1,1,1,0,3803-1,Robotics Invention System Upgrade Kit (1.5),1999,260,70,///!!!
+1,1,1,0,3804-1,"Robotics Invention System, Version 2.0",2001,260,720,///!!!
+1,1,1,0,3806-1,Gigamesh G60,2002,463,243,///!!!
+1,1,1,0,3807-1,Snaptrax S45,2002,463,202,///!!!
+1,1,1,0,3808-1,Shadowstrike S70,2002,463,236,///!!!
+1,1,1,0,3809-1,Technojaw T55,2002,463,261,///!!!
+1,1,1,0,4094-1,Motor Movers,2003,406,256,
+1,1,1,0,4095-1,Record and Play,2003,406,344,///!!!
+1,1,1,0,41999-1,4 x 4 Crawler Exclusive Edition,2013,1,1584,
+1,1,1,0,42000-1,Grand Prix Racer,2013,1,1141,
+1,1,1,0,42006-1,Excavator,2013,1,720,
+1,1,1,0,42008-1,Service Truck,2013,1,1276,
+1,1,1,0,42009-1,Mobile Crane MK II,2013,1,2607,
+1,1,1,0,42024-1,Container Truck,2014,1,948,
+1,1,1,0,42025-1,Cargo Plane,2014,1,1297,
+1,1,1,0,42028-1,Bulldozer,2014,1,617,
+1,1,1,0,42029-1,Customized Pick up Truck,2014,1,1063,
+1,1,1,0,42030-1,Remote-Controlled Volvo L350F Wheel Loader,2014,1,1636,
+1,1,1,0,42038-1,Arctic Truck,2015,1,913,
+1,1,1,0,42039-1,24 Hours Race Car,2015,1,1219,
+1,1,1,0,42041-1,Race Truck,2015,1,608,
+1,1,1,0,42042-1,Crawler Crane,2015,1,1400,
+1,1,1,0,42043-1,Mercedes-Benz Arocs 3245,2015,1,2793,
+1,1,1,0,42050-1,Drag Racer,2016,1,647,
+1,1,1,0,42052-1,Heavy Lift Helicopter,2016,1,1042,
+1,1,1,0,42053-1,Volvo EW160E,2016,1,1166,
+1,1,1,0,42054-1,CLAAS XERION 5000 TRAC VC,2016,1,1976,
+1,1,1,0,42055-1,Bucket Wheel Excavator,2016,1,3929,
+1,1,1,0,42056-1,Porsche 911 GT3 RS,2016,1,2704,
+1,1,1,0,42065-1,RC Tracked Racer,2017,1,370,
+1,1,1,0,42068-1,Airport Rescue Vehicle,2017,1,1106,
+1,1,1,0,42069-1,Extreme Adventure,2017,1,2382,
+1,1,1,0,42070-1,6x6 All Terrain Tow Truck,2017,1,1862,
+1,1,1,0,42077-1,Rally Car,2018,1,1005,
+1,1,1,0,42078-1,Mack Anthem,2018,1,2595,
+1,1,1,0,42081-1,Volvo Concept Wheel Loader ZEUX,2018,1,1167,
+1,1,1,0,42082-1,Rough Terrain Crane,2018,1,4056,
+1,1,1,0,42083-1,Bugatti Chiron,2018,1,3599,
+1,1,1,0,42093-1,Chevrolet Corvette ZR1,2019,1,579,
+1,1,1,0,42094-1,Tracked Loader,2019,1,827,
+1,1,1,0,42095-1,Remote-Controlled Stunt Racer,2019,1,324,
+1,1,1,0,42096-1,Porsche 911 RSR,2019,1,1580,
+1,1,1,0,42097-1,Compact Crawler Crane,2019,1,920,
+1,1,1,0,42099-1,4x4 X-treme Off-Roader,2019,1,958,
+1,1,1,0,42100-1,Liebherr R 9800 Excavator,2019,1,4108,
+1,1,1,0,42105-1,Catamaran,2020,1,405,
+1,1,1,0,42108-1,Mobile Crane,2020,1,1292,
+1,1,1,0,42109-1,App-Controlled Top Gear Rally Car,2020,1,463,
+1,1,1,0,42110-1,Land Rover Defender,2019,1,2573,
+1,1,1,0,42111-1,Dom’s Dodge Charger,2020,1,1077,
+1,1,1,0,42112-1,Cement Mixer,2020,1,1161,
+1,1,1,0,42114-1,6x6 Volvo Articulated Hauler,2020,1,2193,
+1,1,1,0,42115-1,Lamborghini Sián FKP 37,2020,1,3696,
+1,1,1,0,42121-1,Heavy-Duty Excavator,2021,1,569,
+1,1,1,0,42122-1,Jeep Wrangler,2021,1,665,
+1,1,1,0,42123-1,McLaren Senna GTR,2021,1,830,
+1,1,1,0,42124-1,Off-Road Buggy,2021,1,374,
+1,1,1,0,42125-1,"Ferrari 488 GTE ""AF Corse #51""",2021,1,1677,
+1,1,1,0,42126-1,Ford F-150 Raptor,2021,1,1379,///!!!
+1,1,1,0,42127-1,The Batman - Batmobile,2021,1,1360,
+1,1,1,0,42128-1,Heavy Duty Tow Truck,2021,1,2017,///!!!
+1,1,1,0,42131-1,Cat D11 Bulldozer,2021,1,3854,
+1,1,1,0,42139-1,All-Terrain Vehicle,2022,1,764,
+1,1,1,0,42140-1,App-Controlled Transformation Vehicle,2022,1,772,
+1,1,1,0,42141-1,McLaren Formula 1 Race Car - 1st Edition,2022,1,1432,
+1,1,1,0,4286784-1,Dirt Crusher Gearbox with Light,2005,112,6,///!!!
+1,1,1,0,4288906-1,Battery Pack,2004,112,6,///!!!
+1,1,1,0,45300-1,WeDo 2.0 Core Set,2016,521,281,///!!!Bucket of sheer excitement
+1,1,1,0,45301-1,WeDo 2.0 Smart Hub,2016,521,1,///!!!
+1,1,1,0,45302-1,WeDo 2.0 Smart Hub Rechargeable Battery,2016,521,1,///!!!
+1,1,1,0,45303-1,WeDo 2.0 Medium Motor,2016,521,1,///!!!
+1,1,1,0,45304-1,WeDo 2.0 Motion Sensor,2016,521,1,///!!!
+1,1,1,0,45305-1,WeDo 2.0 Tilt Sensor,2016,521,1,///!!!
+1,1,1,0,45345-1,SPIKE Essential,2021,507,448,///!!!
+1,1,1,0,45400-1,BricQ Motion Prime,2021,507,561,///!!!
+1,1,1,0,45401-1,BricQ Motion Essential,2021,507,523,///!!!The Ramp!!!
+1,1,1,0,45500-1,EV3 Intelligent Brick,2013,262,1,///!!!
+1,1,1,0,45501-1,EV3 Rechargeable DC Battery,2013,262,1,///!!!
+1,1,1,0,45502-1,EV3 Large Servo Motor,2013,262,1,///!!!
+1,1,1,0,45503-1,EV3 Medium Servo Motor,2013,262,1,///!!!
+1,1,1,0,45504-1,EV3 Ultrasonic Sensor,2013,262,1,///!!!
+1,1,1,0,45505-1,EV3 Gyro Sensor,2013,262,1,///!!!
+1,1,1,0,45506-1,EV3 Color Sensor,2013,262,1,///!!!
+1,1,1,0,45507-1,EV3 Touch Sensor,2013,262,1,///!!!
+1,1,1,0,45508-1,EV3 Infrared Beacon,2013,262,1,///!!!
+1,1,1,0,45509-1,EV3 Infrared Sensor,2013,262,1,///!!!
+1,1,1,0,45514-1,EV3 Cable Pack,2013,262,7,///!!!
+1,1,1,0,45544-1,EV3 Core Set,2013,518,547,///!!!
+1,1,1,0,45560-1,EV3 Expansion Set,2013,518,856,///!!!Bucket of Sheer Excitement
+1,1,1,0,45570-1,Space Challenge Set,2014,518,1412,///!!!The Ramp!!!
+1,1,1,0,45601-1,Large Hub,2020,529,2,//////!!!!!!
+1,1,1,0,45602-1,Large Angular Motor,2020,529,1,///!!!
+1,1,1,0,45603-1,Medium Angular Motor,2020,529,1,///!!!
+1,1,1,0,45604-1,Distance Sensor,2020,529,1,///!!!
+1,1,1,0,45605-1,Color Sensor,2020,529,1,///!!!
+1,1,1,0,45606-1,Force Sensor,2020,529,1,///!!!
+1,1,1,0,45607-1,Small Angular Motor,2021,529,1,///!!!Rare!!!
+1,1,1,0,45608-1,3×3 Color Light Matrix,2021,529,1,///!!!Rare!!!
+1,1,1,0,45609-1,Small Hub,2021,529,2,///!!!Rare!!!
+1,1,1,0,45610-1,Large Hub Battery,2020,529,1,///!!!
+1,1,1,0,45612-1,Small Hub Battery,2021,529,1,///!!!Rare!!!
+1,1,1,0,45678-1,SPIKE Prime,2020,507,533,///!!!
+1,1,1,0,45680-1,SPIKE Prime Expansion Set,2020,507,603,///!!!
+1,1,1,0,45681-1,SPIKE Prime Expansion Set (v2),2021,507,604,///!!!
+1,1,1,0,4589-1,RC-Nitro Flash,2002,112,139,///!!!
+1,1,1,0,5003403-1,NXT Homeschool Pack,2011,519,1,///!!!
+1,1,1,0,5003407-1,Homeschool NXT with Resource Set,2014,519,1,///!!!
+1,1,1,0,5003417-1,WeDo Homeschool Pack,2014,521,1,///!!!
+1,1,1,0,5003423-1,WeDo Combo,2014,521,1,///!!!
+1,1,1,0,5003424-1,Homeschool Renewable Energy Extension Pack,2014,532,1,///!!!Tachometer Brick
+1,1,1,0,5003475-1,WeDo Homeschool Expansion Pack,2014,521,2,///!!!
+1,1,1,0,5003476-1,Homeschool Simple and Motorized Mechanisms Renewable Energy Bundle,2014,529,2,///!!!
+1,1,1,0,5003477-1,Homeschool Simple and Motorized Mechanisms Pneumatics Bundle,2016,529,2,///!!!
+1,1,1,0,5003479-1,EV3 Homeschool with Design Engineering Projects Pack,2016,518,2,///!!!
+1,1,1,0,5003480-1,EV3 Homeschool Combo Pack,2013,518,0,///!!!
+1,1,1,0,5100-1,TECHNIC Battery Box,1987,453,1,
+1,1,1,0,5101-1,4.5v TECHNIC Motor,1987,453,1,
+1,1,1,0,51515-1,Robot Inventor,2020,258,949,///!!!
+1,1,1,0,5206-1,Speed Computer,2000,19,19,///!!!
+1,1,1,0,66194-1,City Super Pack,2007,56,0,//Crane
+1,1,1,0,66318-1,Technic Super Pack 4 in 1,2009,1,0,///!!!
+1,1,1,0,66359-1,Technic Super Pack 4 in 1,2010,1,0,//Crane
+1,1,1,0,66397-1,Technic Super Pack 4 in 1,2011,1,0,
+1,1,1,0,66433-1,Technic Super Pack 3 in 1,2012,1,0,
+1,1,1,0,673F-1,Gearbox Pack,2004,112,6,///!!!
+1,1,1,0,7099-1,Accessory Motor for Boats,2004,279,1,///!!!They come in Orange?
+1,1,1,0,72006-1,Axl's Rolling Arsenal,2018,605,603,///!!!
+1,1,1,0,7216-1,Gold Good Guy - looking Right (Duracell 8 pack AA) {Turaga Lhikan},2006,324,22,
+1,1,1,0,7216-2,Gold Good Guy - looking Left (Duracell 12 pack AA) {Turaga Lhikan},2006,324,22,
+1,1,1,0,7216-3,Gold Good Guy - looking Right (Duracell 12 pack AA) {Turaga Lhikan},2006,324,22,
+1,1,1,0,7217-1,Braca (Duracell 12 pack AA battery promotion),2006,324,16,
+1,1,1,0,7217-2,Braca (Duracell 8 pack AA battery promotion),2006,324,16,
+1,1,1,0,744-1,Universal Building Set,1980,469,540,///!!!
+1,1,1,0,75288-1,AT-AT,2020,158,1267,//Classic
+1,1,1,0,7685-1,Dozer,2009,56,352,
+1,1,1,0,800-1,Gear Set with Motor,1970,472,120,
+1,1,1,8041-1,Race Truck,2010,1,608,
+1,1,1,0,8043-1,Motorized Excavator,2010,1,1127,///!!!
+1,1,1,0,8050-1,Universal Building Set,1982,21,142,
+1,1,1,0,8052-1,Container Truck,2010,1,686,///!!!
+1,1,1,0,8053-1,Mobile Crane,2010,1,1289,
+1,1,1,0,8054-1,Universal Building Set,1989,21,196,
+1,1,1,0,8055-1,Universal Building Set with Motor,1986,21,188,
+1,1,1,0,8063-1,Tractor with Trailer,2009,1,1100,
+1,1,1,0,8064-1,Motorized Universal Building Set,1990,21,221,
+1,1,1,0,8070-1,Supercar,2011,1,1281,///!!!
+1,1,1,0,8071-1,Lift Truck,2011,1,593,///!!!
+1,1,1,0,8081-1,Extreme Cruiser,2011,1,590,///!!!
+1,1,1,0,8082-1,Universal Building Set,1993,21,460,///!!!Multiple Controls
+1,1,1,0,8094-1,TECHNIC Control Centre,1990,21,549,///!!!Control Panels
+1,1,1,0,8108-1,Mobile Devastator,2007,389,1009,///!!!Combined with Mindstorms a lot
+1,1,1,0,8109-1,Flatbed Truck,2011,1,1115,///!!!
+1,1,1,0,8110-1,Unimog U400,2011,1,2048,///!!!Crane
+1,1,1,0,8145-1,Ferrari 599 GTB Fiorano 1:10,2007,114,1326,
+1,1,1,0,8146-1,Nitro Muscle,2007,112,598,///!!!
+1,1,1,0,8157-1,Ferrari F1 1:9,2009,114,997,///!!!
+1,1,1,0,8183-1,Track Turbo RC,2009,112,92,///!!!
+1,1,1,0,8184-1,Twin X-treme RC,2009,112,239,///!!!
+1,1,1,0,8258-1,Crane Truck,2009,1,1877,///!!!Crane
+1,1,1,0,8266-1,Spyder Slayer,1998,3,368,
+1,1,1,0,8268-1,Scorpion Attack,1999,3,79,
+1,1,1,0,8269-1,Competition Ultra Challenge [aka Cyber Stinger],1999,3,329,
+1,1,1,0,8273-1,Off Road Truck,2007,1,805,///!!!
+1,1,1,0,8274-1,Combine Harvester,2007,1,1025,///!!!
+1,1,1,0,8275-1,Motorized Bulldozer,2007,1,1381,
+1,1,1,0,8284-1,Tractor / Dune Buggy,2006,1,872,
+1,1,1,0,8285-1,Tow Truck,2006,1,1879,///!!!
+1,1,1,0,8287-1,Motor Box,2006,19,93,///!!!Legendary Technic Motors and Clutches
+1,1,1,0,8288-1,Crawler Crane,2006,1,800,///!!!Crane!!!
+1,1,1,0,8289-1,Fire Truck,2006,1,1035,//Crane
+1,1,1,0,8292-1,Cherry Picker,2008,1,725,
+1,1,1,0,8293-1,Power Functions Motor Set,2008,438,10,///!!!
+1,1,1,0,8294-1,Excavator,2008,1,720,///!!!
+1,1,1,0,8295-1,Telescopic Handler,2008,1,1182,///!!!
+1,1,1,0,8297-1,Off-Roader,2008,1,1097,///!!!
+1,1,1,0,8299-1,Search Sub [with CD],1997,1,379,///!!!
+1,1,1,0,8366-1,Supersonic RC,2003,112,429,///!!!Legendary!!!
+1,1,1,0,8369-1,Dirt Crusher RC,2004,112,88,///!!!Legendary!!!
+1,1,1,0,8369-2,Dirt Crusher RC (Blue),2005,112,88,///!!!Legendary!!!
+1,1,1,0,8376-1,Hot Flame RC Car,2003,112,257,///!!!
+1,1,1,0,8378-1,Red Beast RC,2004,112,65,///!!!Legendary!!!
+1,1,1,0,8386-1,Ferrari F1 Racer 1:10,2004,114,719,///!!!Legendary!!!
+1,1,1,0,8415-1,Dump Truck,2005,1,284,
+1,1,1,0,8416-1,Forklift,2005,1,729,
+1,1,1,0,8421-1,Mobile Crane,2005,1,1885,//Crane
+1,1,1,0,8428-1,Turbo Command Featuring CD-ROM Experience Expander,1998,1,472,///!!!
+1,1,1,0,8435-1,4WD,2004,1,763,
+1,1,1,0,8436-1,Truck,2004,1,1032,
+1,1,1,0,8440-1,Formula Flash,1995,1,419,///!!!
+1,1,1,0,8445-1,Indy Storm / Formula 1 Racer,1999,1,434,
+1,1,1,0,8448-1,Super Street Sensation,1999,1,1406,///!!!
+1,1,1,0,8454-1,Rescue Truck,2003,1,634,///!!!
+1,1,1,0,8455-1,Backhoe Loader,2003,1,704,
+1,1,1,0,8456-1,Fiber Optic Multi Set / Multi Racer Set (with Fibre Optics),1996,1,406,///!!!Legendary!!!
+1,1,1,0,8458-1,Silver Champion,2000,1,1433,///!!!Legendary!!!
+1,1,1,0,8461-1,Williams F1 Team Racer,2002,122,1484,///!!!Legendary!!!
+1,1,1,0,8462-1,Tow Truck,1998,1,786,///!!!Wheels
+1,1,1,0,8466-1,4x4 Off Roader,2001,1,1103,///!!!
+1,1,1,0,8475-1,RC Race Buggy,2002,112,284,///!!!Controls!!!
+1,1,1,0,8479-1,Barcode Multi-Set,1997,1,1274,///!!!BarCodes
+1,1,1,0,8482-1,CyberMaster,1998,3,897,///!!!TechnicHub Programmable
+1,1,1,0,8483-1,CyberMaster,1998,3,897,///!!!Legendary!!!
+1,1,1,0,8485-1,Control Centre / Control II,1995,21,1067,///!!!ControlPanel!!!
+1,1,1,0,8527-1,LEGO Mindstorms NXT,2006,259,579,///!!!Legendary!!!
+1,1,1,0,8528-1,Converter Cables for Mindstorms NXT,2006,259,3,///!!!
+1,1,1,0,8529-1,Connector Cables for Mindstorms NXT,2006,259,7,///!!!
+1,1,1,0,8531-2,Pohatu - With mini CD-ROM,2001,324,50,
+1,1,1,0,8532-2,Onua - With mini CD-ROM,2001,324,33,
+1,1,1,0,8533-2,Gali - With mini CD-ROM,2001,324,36,
+1,1,1,0,8534-2,Tahu - With mini CD-ROM,2001,324,34,
+1,1,1,0,8535-2,Lewa - With mini CD-ROM,2001,324,37,
+1,1,1,0,8536-2,Kopaka - With mini CD-ROM,2001,324,34,
+1,1,1,0,8546-1,Power Pack,2001,324,10,
+1,1,1,0,8547-1,Mindstorms NXT 2.0,2009,259,621,///!!!Legendary!!!
+1,1,1,0,858-1,Auto Engines,1980,4,242,
+1,1,1,0,8587-3,Panrahk - With mini CD-ROM,2003,324,45,
+1,1,1,0,8588-3,Kurahk - With mini CD-ROM,2003,324,44,
+1,1,1,0,8589-3,Lerahk - With mini CD-ROM,2003,324,45,
+1,1,1,0,8590-3,Guurahk - With mini CD-ROM,2003,324,45,
+1,1,1,0,8591-3,Vorahk - With mini CD-ROM,2003,324,44,
+1,1,1,0,8592-3,Turahk - With mini CD-ROM,2003,324,45,
+1,1,1,0,8614-2,Vahki Nuurakh Limited Edition with Movie Edition Vahi and Disk Of Time,2004,324,33,
+1,1,1,0,8615-2,Vahki Bordakh Limited Edition with Movie Edition Vahi and Disk Of Time,2004,324,33,
+1,1,1,0,8616-2,Vahki Vorzakh Limited Edition with Movie Edition Vahi and Disk Of Time,2004,324,33,
+1,1,1,0,8617-2,Vahki Zadakh Limited Edition with Movie Edition Vahi and Disk Of Time,2004,324,33,
+1,1,1,0,8618-2,Vahki Rorzakh Limited Edition with Movie Edition Vahi and Disk Of Time,2004,324,33,
+1,1,1,0,8619-2,Vahki Keerakh Limited Edition with Movie Edition Vahi and Disk Of Time,2004,324,33,
+1,1,1,0,8649-1,Nitro Menace,2005,112,622,
+1,1,1,0,8653-1,Enzo Ferrari 1:10,2005,114,1358,//Classic
+1,1,1,0,8669-1,Fire Spinner 360,2006,112,113,///!!!
+1,1,1,0,8674-1,Ferrari F1 Racer 1:8,2006,114,1246,///!!!
+1,1,1,0,8675-1,Outdoor Challenger,2006,112,99,///!!!
+1,1,1,0,8676-1,Sunset Cruiser,2006,112,54,///!!!
+1,1,1,0,8700-1,Expert Builder Power Pack,1982,4,27,///!!!
+1,1,1,0,870-1,4.5V Supplementary Set,1977,4,22,///!!!
+1,1,1,0,8720-1,Power Pack,1991,19,55,///!!!
+1,1,1,0,872-1,Supplementary Set,1978,4,77,///!!!
+1,1,1,0,8735-1,Power Pack Motor Set,1998,19,60,///!!!
+1,1,1,0,88000-1,Power Functions AAA Battery Box,2011,438,1,///!!!
+1,1,1,1,88002-1,Power Functions Train Motor,2011,438,7,//////!!!!!!
+1,1,1,0,88003-1,Power Functions L-Motor,2013,438,1,///!!!
+1,1,1,0,88004-1,Power Functions Servo Motor,2013,438,1,///!!!
+1,1,1,0,88005-1,Light,2018,655,1,///!!!
+1,1,1,0,88006-1,Move Hub,2019,655,1,///!!!
+1,1,1,0,88009-1,Hub (Battery Box),2019,655,1,///!!!
+1,1,1,0,880-1,Supplementary Set,1979,4,22,//////!!!!!!
+1,1,1,0,88010-1,Remote Control,2019,655,1,///!!!
+1,1,1,1,88011-1,Train Motor,2019,655,7,//////!!!!!!
+1,1,1,0,88012-1,Technic Hub,2020,655,1,///!!!
+1,1,1,0,88013-1,Technic Large Motor,2020,655,1,///!!!
+1,1,1,0,88014-1,Technic XL Motor,2020,655,1,///1!!
+1,1,1,0,88015-1,Battery Box,2021,655,1,///!!!
+1,1,1,0,88016-1,Technic Large Hub,2021,258,2,///!!!
+1,1,1,0,88017-1,Large Angular Motor,2021,655,1,///!!!
+1,1,1,0,88018-1,Medium Angular Motor,2021,655,1,///!!!
+1,1,1,1,8866-1,Train Motor (RC),2009,438,7,//////!!!!!!
+1,1,1,0,8869-1,Power Functions Control Switch,2009,438,1,///!!!
+1,1,1,0,8870-1,Power Functions Light,2009,438,1,///!!!
+1,1,1,0,8871-1,Power Functions Extension Wire 50cm,2009,438,1,///!!!
+1,1,1,0,8872-1,Forklift Transporter,1993,1,763,///!!!
+1,1,1,0,8878-1,Rechargeable Battery Box,2009,438,1,///!!!
+1,1,1,0,8879-1,IR Speed Remote Control,2009,438,1,///!!!Controls!!!
+1,1,1,0,8880-1,Super Car,1994,1,1346,///!!!Legendary!!!
+1,1,1,0,8881-1,Power Functions Battery Box,2008,438,1,///!!!
+1,1,1,0,8882-1,Power Functions XL-Motor,2008,438,1,///!!!
+1,1,1,0,8883-1,Power Functions M-Motor,2008,438,1,///!!!
+1,1,1,0,8884-1,Power Functions IR Receiver,2008,438,1,///!!!
+1,1,1,0,8885-1,Power Functions IR Remote Control,2008,438,1,///!!!
+1,1,1,0,8886-1,Power Functions Extension Wire,2008,438,1,///!!!
+1,1,1,0,8887-1,Power Functions Transformer 10VDC,2009,438,1,///!!!
+1,1,1,0,9004-1,Activity Playthings,1986,516,0,///!!!
+1,1,1,0,9006-1,Play and Build Center,1986,516,14,///!!!
+1,1,1,0,9008-1,Baby Set,1986,516,15,///!!!
+1,1,1,0,9120-1,Light and Sound,2000,516,5,
+1,1,1,0,9203-2,Tech Machines Set,1998,516,122,///!!!
+1,1,1,0,9206-1,Tech Machines Set,2008,516,120,///!!!
+1,1,1,0,9392-1,Quad Bike,2012,1,199,///!!!
+1,1,1,0,9395-1,Pick-Up Tow Truck,2012,1,954,///!!!
+1,1,1,0,9396-1,Helicopter,2012,1,1056,///!!!
+1,1,1,0,9397-1,Logging Truck,2012,1,1308,///!!!
+1,1,1,0,9398-1,4 x 4 Crawler,2012,1,1327,///!!!
+1,1,1,0,9457-1,Fangpyre Wrecking Ball,2012,435,415,
+1,1,1,0,951-2,Lego TC logo Starter Pack,1988,529,13,///!!!
+1,1,1,0,9580-1,WeDo Robotics Construction Set,2008,521,160,///!!!
+1,1,1,0,9581-1,WeDo Robotics USB Hub,2008,521,1,//////!!!!!!
+1,1,1,0,9583-1,WeDo Robotics Motion Sensor,2009,521,1,///!!!
+1,1,1,0,9584-1,WeDo Robotics Tilt Sensor,2009,521,1,///!!!
+1,1,1,0,9585-1,WeDo Resource Set,2011,521,326,///!!!
+1,1,1,0,960-1,Power Pack,1978,4,22,///!!!
+1,1,1,0,9605-1,4.5V Technic Resource Set,1990,532,1534,///!!!
+1,1,1,0,9607-1,Technology Activity Set,1994,529,318,///!!!
+1,1,1,0,9609-1,Technology Resource Set,1995,507,1730,///!!!
+1,1,1,0,9615-1,Motor Add-On for Simple Mechanisms,1997,507,3,///!!!
+1,1,1,0,9628-1,Mechanisms Power Add-On Set,2008,532,3,///!!!
+1,1,1,0,9631-1,Simple and Motorized Machines Activity Pack,1997,529,24,///!!!
+1,1,1,0,9636-1,Solar Add-on,2000,507,3,///!!!Where was this???
+1,1,1,0,9637-1,Speed Computer Add-on,2000,19,2,///!!!
+1,1,1,0,9645-1,Motorized Simple Machines Set,1997,529,0,///!!!
+1,1,1,0,9646-1,Wheel and Axle Classroom Pack,1994,529,0,///!!!
+1,1,1,0,9647-1,Studios Camera and Software,2000,507,2,///!!!Classic
+1,1,1,0,9648-1,Education Resource Set [NXT Supplemental Set],2006,519,674,///!!!
+1,1,1,0,9657-1,Senior Solutions Challenge Kit,2012,398,1612,///!!!
+1,1,1,0,9660-2,Motorized Mechanisms Set,2008,529,0,///!!!
+1,1,1,0,9665-1,Mechanical Engineering Set,2001,507,322,///!!!
+1,1,1,0,9667-1,Solar Panel,2010,532,1,//////!!!!!!
+1,1,1,0,9668-1,Energy Display,2010,532,1,///!!!
+1,1,1,0,9669-1,Electric Battery Box 9V 150 mAh (Rechargeable),2010,532,1,///!!!
+1,1,1,0,9670-1,E-Motor with Gear Reduction Ratio 9.5 : 1,2010,532,1,///!!!
+1,1,1,0,9680-1,"Energy Work, Power Starter Set",1999,531,792,///!!!
+1,1,1,0,9681-1,eLAB Renewable Energy Set,1999,531,713,///!!!
+1,1,1,0,9684-1,Renewable Energy Set II,2003,507,732,///!!!
+1,1,1,0,9686-1,Simple and Motorized Mechanisms Base Set,2009,507,409,///!!!
+1,1,1,0,9688-1,Renewable Energy Add-On Set,2010,532,12,///!!!
+1,1,1,0,9693-1,"Rechargeable Battery for Lego Mindstorms NXT, DC plug",2010,259,1,///!!!
+1,1,1,0,9694-1,NXT Color Sensor,2010,259,1,///!!!
+1,1,1,0,9695-1,Mindstorms Education Resource Set,2010,259,819,///!!!
+1,1,1,0,970041-1,128 MM Connecting Leads (Pack of 3),2002,525,3,
+1,1,1,0,9701-1,Control Lab Building Set,1995,507,576,///!!!
+1,1,1,0,970115-1,1280 mm Connecting Leads (Pack of 3),2002,525,3,///!!!
+1,1,1,0,9702-1,Control System Building Set,1993,507,227,///!!!
+1,1,1,0,9702-2,Elevator Kit,2002,530,160,///!!!
+1,1,1,0,970653-1,Pole Reversing Switch,2003,524,1,///!!!
+1,1,1,0,970654-1,9-Volt Connecting Leads (One each of 128mm 256 mm 1280 mm),2002,525,3,///!!!
+1,1,1,0,970687-1,Team Challenge Upgrade Kit,2002,524,95,///!!!
+1,1,1,0,9707-1,Intelligent House Building Set,1996,507,164,//InternetOfThings in 1996
+1,1,1,0,9709-1,RCX Programmable Brick,1998,520,1,///!!!Legendary!!!
+1,1,1,0,9713-1,Infrared Transmission Tower,1998,520,2,///!!!
+1,1,1,0,9719-1,"Robotics Invention System, Version 1.0",1998,260,736,
+1,1,1,0,9723-1,Cities and Transportation,2000,507,394,///!!!
+1,1,1,0,9725-1,ROBOLAB Amusement Park Set,1999,520,248,///!!!
+1,1,1,0,9725-2,ROBOLAB Amusement Park Set,2002,520,270,///!!!
+1,1,1,0,9730-1,RoboSports,1998,260,91,//////!!!!!!
+1,1,1,0,9731-1,Vision Command [RCX Digital Colour Camera],2000,260,139,///!!!
+1,1,1,0,9732-1,Extreme Creatures,1998,260,149,///!!!
+1,1,1,0,9735-1,Robotics Discovery Set,1999,260,390,///!!!
+1,1,1,0,9736-1,Exploration Mars,1999,260,158,///!!!
+1,1,1,0,9738-1,Remote Control,1998,260,1,///!!!For RCX
+1,1,1,0,9747-1,"Robotics Invention System, Version 1.5",1999,260,729,///!!!
+1,1,1,0,9748-1,Droid Developer Kit,1999,261,658,//////!!!!!!Classic MicroScout Adafruit
+1,1,1,0,9750-1,LEGO Interface,1986,532,4,//////!!!!!!Birth of the API or App Interface (Rebirth?)
+1,1,1,0,9751-1,Control Lab Serial Interface & Adapter,1995,530,2,///!!!Controls
+1,1,1,0,9752-1,Technic Control Center II,1996,532,15,///!!!Controls
+1,1,1,0,9753-1,Technic Control Center,1993,532,15,///!!!Controls
+1,1,1,0,9754-1,Dark Side Developer Kit,2000,261,578,///!!!MicroScout
+1,1,1,0,9755-1,Temperature Sensor,1999,260,1,///!!!Rare!!!
+1,1,1,0,9756-1,Rotation Sensor,1999,260,1,///!!!
+1,1,1,0,9757-1,Touch Sensor with Cable,1999,260,2,///!!!
+1,1,1,0,9758-1,Light Sensor 9V,1999,260,1,///!!!
+1,1,1,0,9771-1,Interface Card and Cable for TC Logo - IBM compatible,1989,532,3,///!!!Rare!!!
+1,1,1,0,9776-1,Pneumatic Circuit,1999,525,4,//Pneumatic
+1,1,1,0,9780-1,ROBOLAB Starter Building Set,1998,520,1712,///!!!
+1,1,1,0,9783-1,Infrared Transmitter with USB Cable,2001,520,1,
+1,1,1,0,9785-1,Robo Technology Set [Serial Cable],2003,507,220,///!!!
+1,1,1,0,9786-1,Robo Technology Set [USB Cable],2003,507,221,///!!!
+1,1,1,0,9788-1,Mission Mars Challenge Kit,2003,398,1209,///!!!
+1,1,1,0,9790-1,ROBOLAB Team Challenge Set (Serial),1999,520,727,///!!!
+1,1,1,0,9793-1,ROBOLAB Team Challenge Set Version 2.5 [Serial Transmitter],2002,520,834,///!!!
+1,1,1,0,9794-1,ROBOLAB Team Challenge Set Version 2.5 [USB],2003,507,832,///!!!
+1,1,1,0,9795-1,ROBOLAB Intelligent House Building Set,2001,520,164,///!!!
+1,1,1,0,9797-1,Mindstorms Education NXT Base Set,2006,519,442,///!!!
+1,1,1,0,9797-2,Mindstorms Education NXT Base Set,2013,519,491,///!!!
+1,1,1,0,979760-1,Mars Exploration,2003,518,810,///!!!
+1,1,1,0,9798-1,NXT Rechargeable Battery,2006,259,1,///!!!
+1,1,1,0,9799-1,Sensor Adaptor for Mindstorms NXT to Vernier,2008,259,1,///!!!Rare!!!Pi now has Ethernet
+1,1,1,0,9831-1,Battery Box with Switch - 9v,1995,525,1,///[INFO]: Lower Power Options Are Available
+1,1,1,0,9833-1,AC Adapter 230V - 10V Transformer,1996,259,1,///[WARN]: High Voltage
+1,1,1,0,9833-2,"AC Adapter, 120V - 10V Transformer",1996,259,1,///[WARN]: High Voltage
+1,1,1,0,9833-3,AC Adapter 230V - 10V Transformer Type G Plug (British),2006,259,1,///[WARN]: High Voltage
+1,1,1,0,9841-1,NXT Intelligent Brick,2006,259,1,///!!!Legendary!!!
+1,1,1,0,9842-1,NXT Servo Motor,2006,259,1,///!!!
+1,1,1,0,9843-1,NXT Touch Sensor,2006,259,1,///!!!
+1,1,1,0,9844-1,NXT Light Sensor,2006,259,1,///!!!
+1,1,1,0,9845-1,NXT Sound Sensor,2006,259,1,///!!!
+1,1,1,0,9846-1,NXT Ultrasonic Sensor,2006,259,1,///!!!
+1,1,1,0,9849-1,9V Micromotor,1995,525,4,///!!!
+1,1,1,0,9859-1,Technic Motor 4.5 Volt,1992,525,1,///!!!
+1,1,1,0,9860-1,Battery Box (4.5 Volt),1992,525,1,///!!!
+1,1,1,0,9861-1,Connecting Leads,1992,525,8,
+1,1,1,0,9865-1,Optosensor,1992,507,2,
+1,1,1,0,9867-1,Touch Sensor,1992,525,1,
+1,1,1,0,9868-1,Plugholders and Leads,1992,525,42,
+1,1,1,0,9883-1,Motor - 9v,1995,525,1,
+1,1,1,0,9885-1,Sound Element - 9v,1995,525,1,///!!!
+1,1,1,0,9888-1,Touch Sensor,2002,530,1,
+1,1,1,0,9889-1,Temperature Sensor,1995,530,1,///!!!
+1,1,1,0,9890-1,Light Sensor,1995,530,1,
+1,1,1,0,9891-1,Angle Sensor,1995,530,1,
+1,1,1,0,98959-1,Motor,1977,4,40,
+1,1,1,0,9897-1,9-Volt Connecting Leads,1998,507,3,
+1,1,1,0,9898-1,9-Volt Long Connecting Leads,1996,525,2,
+1,1,1,0,9911-1,9-Volt Touch Sensor and Leads,2004,260,3,
+1,1,1,0,991118-1,3M Connecting Lead (Set of 2),2002,524,2,
+1,1,1,0,9912-1,LEGO Solar Cell,1999,507,1,///!!!Rare!!!
+1,1,1,0,991526-1,Homeschool Introduction to Simple and Motorized Mechanisms Pack,2009,529,1,
+1,1,1,0,9916-1,Electrical Capacitor,1999,531,1,///[WARN]: Capacitor!!!
+1,1,1,0,991751-1,MINDSTORMS Energy Parts Pack,2012,525,46,///!!!
+1,1,1,0,D100340-1,LogIT Sensor Adapter,2010,259,1,///!!!Legendary!!!
+1,1,1,0,iFountain-1,iFountain (Lego / Coca-Cola Employee Exclusive),2001,301,331,///!!!
+1,1,1,0,K3801-1,RIS 2.0 Builders Kit,2003,260,0,///!!!
+1,1,1,1,K8882-1,Power Functions Train Accessories Pack,2009,438,0,//////!!!!!!
+1,1,1,0,K9833-1,Rechargeable Battery Set,2007,259,0,
+1,1,1,0,K9833-2,Rechargeable Battery Set (AC Adapter 230V - 10V Transformer),2006,259,0,
+1,1,1,0,K9916-1,Robotics Invention System Kit,2003,260,0,///!!!
+1,1,1,0,KABROBO-1,Kabaya RoboRiders 4-Pack,2000,16,0,///!!!
+1,1,1,0,KB565-1,RIS 2.0 Basics Kit,2004,260,1,//Microsoft KB00000235
+1,1,1,1,KT103-1,Large Train Engine Blue,2001,236,0,
+1,1,1,1,KT104-1,Large Train Engine Green,2001,236,0,
+1,1,1,1,KT105-1,Large Train Engine Black,2001,236,0,
+1,1,1,1,KT106-1,Large Train Engine Brown,2001,236,0,
+1,1,1,1,KT107-1,Large Train Engine Gray,2001,236,0,
+1,1,1,1,KT203-1,Large Train Engine with Tender Blue,2001,236,0,
+1,1,1,1,KT204-1,Large Train Engine with Tender Green,2001,236,0,
+1,1,1,1,KT205-1,Large Train Engine with Tender Black,2001,236,0,
+1,1,1,1,KT206-1,Large Train Engine with Tender Brown,2001,236,0,
+1,1,1,1,KT207-1,Large Train Engine with Tender Gray,2001,236,0,
+1,1,1,1,KT303-1,Small Train Engine Blue,2001,236,0,
+1,1,1,1,KT304-1,Small Train Engine Green,2001,236,0,
+1,1,1,1,KT305-1,Small Train Engine Black,2001,236,0,
+1,1,1,1,KT306-1,Small Train Engine Brown,2001,236,0,
+1,1,1,1,KT307-1,Small Train Engine Gray,2001,236,0,
+1,1,1,1,KT403-1,Small Train Engine with Tender Blue,2001,236,0,
+1,1,1,1,KT404-1,Small Train Engine with Tender Green,2001,236,0,
+1,1,1,1,KT405-1,Small Train Engine with Tender Black,2001,236,0,
+1,1,1,1,KT406-1,Small Train Engine with Tender Brown,2001,236,0,
+1,1,1,1,KT407-1,Small Train Engine with Tender Gray,2001,236,0,
+1,1,1,1,KTR01-1,Classic Train Kit,2001,236,0,
+1,1,1,1,KTR02-1,Large Classic Train Kit,2001,236,0,
+1,1,1,1,KTR04-1,Large Classic Train Kit with Speed Regulator,2003,236,0,
+1,1,1,0,MLN09-1,My LEGO Network Promo,2009,598,3,//Welcome to Discord
+1,1,1,0,MS1032-1,Infrared Receiver Sensor for Mindstorms NXT,2010,259,1,///!!!
+1,1,1,0,MS1034-1,Compass Sensor for Mindstorms NXT,2006,259,1,///!!!
+1,1,1,0,MS1038-1,Color Sensor for Mindstorms NXT,2006,259,1,///!!!
+1,1,1,0,MS1040-1,Accelerometer Sensor for Mindstorms NXT,2007,259,1,///!!!
+1,1,1,0,MS1042-1,Infrared Seeker for Mindstorms NXT (Version 1),2007,259,1,///!!!
+1,1,1,0,MS1044-1,Gyroscopic Sensor for Mindstorms NXT,2007,259,1,///!!!
+1,1,1,0,MS1046-1,Infrared Link Sensor for Mindstorms NXT,2007,259,1,///!!!
+1,1,1,0,MS1048-1,Mindstorms RF ID Sensor,2008,259,3,///!!!
+1,1,1,0,MS1049-1,Mindstorms Keyfob Transponder,2008,259,10,///!!!
+1,1,1,0,MS1060-1,Mindstorms NXT Touch Sensor Multiplexer,2009,259,0,//////!!!!!!
